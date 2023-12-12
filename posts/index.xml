@@ -1,26 +1,6 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Posts on Yu-Chung Cheng personal website</title>
-    <link>https://sunnyanthony.github.io/posts/</link>
-    <description>Recent content in Posts on Yu-Chung Cheng personal website</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Tue, 12 Dec 2023 11:58:33 -0500</lastBuildDate>
-    <atom:link href="https://sunnyanthony.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Experiences</title>
-      <link>https://sunnyanthony.github.io/posts/experiences/</link>
-      <pubDate>Tue, 12 Dec 2023 11:58:33 -0500</pubDate>
-      <guid>https://sunnyanthony.github.io/posts/experiences/</guid>
-      <description>Work Experience Deep Sentinel Inc., Pleasanton, CA, USA/Taipei, Taiwan&#xA;Senior Software Engineer - March 2021 - November 2022&#xA;Evolved real-time deep-learning-based object detection. Engineered cutting-edge multimedia frameworks for real-time video streaming. Pioneered integration testing for virtualized IoT systems. Designed and implemented 3rd generation hub system. Contributed to Kubernetes-based microservices on GCP. RealTek Inc., Taipei, Taiwan&#xA;Senior Software Engineer - September 2020 - March 2021&#xA;Designed a key-value database for power management storage.</description>
-    </item>
-    <item>
-      <title>Publications</title>
-      <link>https://sunnyanthony.github.io/posts/publications/</link>
-      <pubDate>Tue, 12 Dec 2023 11:03:04 -0500</pubDate>
-      <guid>https://sunnyanthony.github.io/posts/publications/</guid>
-      <description>Thesis Performance Improvement of OpenFlow Switch with Queue and Per-port Cache Cheng, Y. C., &amp;amp; Lin, Y. L. (2016). Performance Improvement of OpenFlow Switch with Queue and Per-port Cache. National Tsing Hua University.&#xA;@mastersthesis{Cheng2016OpenFlow, author = {Cheng, Yu Chung and Lin, Youn Long}, title = {Performance Improvement of OpenFlow Switch with Queue and Per-port Cache}, school = {National Tsing Hua University}, year = {2016}, url = {https://etd.lib.nctu.edu.tw/cgi-bin/gs32/hugsweb.cgi?o=dnthucdr&amp;amp;s=id=%22GH02103062631%22.&amp;amp;searchmode=basic&amp;amp;switchlang=en} } PDF NTHU</description>
-    </item>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Yu-Chung Cheng personal website</title><link>https://sunnyanthony.github.io/posts/</link><description>Recent content in Posts on Yu-Chung Cheng personal website</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Tue, 12 Dec 2023 11:58:33 -0500</lastBuildDate><atom:link href="https://sunnyanthony.github.io/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Experiences</title><link>https://sunnyanthony.github.io/posts/experiences/</link><pubDate>Tue, 12 Dec 2023 11:58:33 -0500</pubDate><guid>https://sunnyanthony.github.io/posts/experiences/</guid><description>Work Experience Deep Sentinel Inc., Pleasanton, CA, USA/Taipei, Taiwan
+Senior Software Engineer - March 2021 - November 2022
+Evolved real-time deep-learning-based object detection. Engineered cutting-edge multimedia frameworks for real-time video streaming. Pioneered integration testing for virtualized IoT systems. Designed and implemented 3rd generation hub system. Contributed to Kubernetes-based microservices on GCP. RealTek Inc., Taipei, Taiwan
+Senior Software Engineer - September 2020 - March 2021
+Designed a key-value database for power management storage.</description></item><item><title>Publications</title><link>https://sunnyanthony.github.io/posts/publications/</link><pubDate>Tue, 12 Dec 2023 11:03:04 -0500</pubDate><guid>https://sunnyanthony.github.io/posts/publications/</guid><description>Thesis Performance Improvement of OpenFlow Switch with Queue and Per-port Cache Cheng, Y. C., &amp;amp; Lin, Y. L. (2016). Performance Improvement of OpenFlow Switch with Queue and Per-port Cache. National Tsing Hua University.
+@mastersthesis{Cheng2016OpenFlow, author = {Cheng, Yu Chung and Lin, Youn Long}, title = {Performance Improvement of OpenFlow Switch with Queue and Per-port Cache}, school = {National Tsing Hua University}, year = {2016}, url = {https://etd.lib.nctu.edu.tw/cgi-bin/gs32/hugsweb.cgi?o=dnthucdr&amp;amp;s=id=%22GH02103062631%22.&amp;amp;searchmode=basic&amp;amp;switchlang=en} } PDF NTHU</description></item></channel></rss>
